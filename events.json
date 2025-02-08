@@ -1,0 +1,678 @@
+[
+    {
+        "timestamp": "2025-02-07",
+        "friendly_timestamp": "Friday, Feb. 7",
+        "events": [
+            {
+                "emoji": "🎸",
+                "title": "Classical Guitar Lessons",
+                "link": "https://www.eventbrite.com/e/classical-guitar-lessons-with-roberto-alcaraz-45-minute-class-tickets-1129865501129?aff=ebdssbdestsearch",
+                "time": "Various times",
+                "price": "$70",
+                "location": "Georgetown"
+            },
+            {
+                "emoji": "📖",
+                "title": "Book Lovers Night Out",
+                "link": "https://www.eventbrite.com/e/book-lovers-night-out-tickets-1148812361699?aff=ebdssbdestsearch",
+                "time": "6 - 9 p.m.",
+                "price": "$10",
+                "location": "Alexandria"
+            },
+            {
+                "emoji": "🪕",
+                "title": "Greensky Bluegrass",
+                "link": "https://theanthemdc.com/event/greensky-bluegrass/",
+                "time": "7 p.m.",
+                "price": "$45+",
+                "location": "The Wharf"
+            },
+            {
+                "emoji": "💃",
+                "title": "SZA Dance Party",
+                "link": "https://www.unionstagepresents.com/shows/sza-dance-night/",
+                "time": "10 p.m.",
+                "price": "$20+",
+                "location": "The Wharf"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-08",
+        "friendly_timestamp": "Saturday, Feb. 8",
+        "events": [
+            {
+                "emoji": "📚",
+                "title": "Used Book Sale",
+                "link": "https://dclibrary.libnet.info/event/11093956",
+                "time": "10 a.m. - 3 p.m.",
+                "price": "Free",
+                "location": "Capitol Hill"
+            },
+            {
+                "emoji": "🕯️",
+                "title": "Couples Candle Making",
+                "link": "https://www.eventbrite.com/e/bogo-50-couples-candle-making-tickets-1145567746969?aff=ebdssbdestsearch",
+                "time": "10 a.m.",
+                "price": "$24+",
+                "location": "Alexandria"
+            },
+            {
+                "emoji": "🌸",
+                "title": "Cherry Blossom Embroidery Class",
+                "link": "https://www.eventbrite.com/e/district-spring-embroidery-class-wcapital-stitch-co-tickets-1206856804189?aff=",
+                "time": "11 a.m.",
+                "price": "$50",
+                "location": "Georgetown"
+            },
+            {
+                "emoji": "🍻",
+                "title": "Black Brewers Tasting Party",
+                "link": "https://www.eventbrite.com/e/cheers-and-beers-black-brewers-tasting-party-tickets-1198535946279?aff=",
+                "time": "2 - 5 p.m.",
+                "price": "$32",
+                "location": "Edgewood"
+            },
+            {
+                "emoji": "🩰",
+                "title": "Dance Performance: Asian American Stories of Resilience",
+                "link": "https://www.si.edu/events/detail/?trumbaEmbed=view%3Devent%26eventid%3D178657492",
+                "time": "4 - 6 p.m.",
+                "price": "Free",
+                "location": "National Mall"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-09",
+        "friendly_timestamp": "Sunday, Feb. 9",
+        "events": [
+            {
+                "emoji": "💗",
+                "title": "Galentine's Pottery Workshop",
+                "link": "https://sioceramics.com/collections/workshops-classes/products/galentines-bud-vase-worshop?variant=45929010692311",
+                "time": "2 p.m.",
+                "price": "$75",
+                "location": "Navy Yard"
+            },
+            {
+                "emoji": "🎙️",
+                "title": "Tunes: The Afro-Semitic Experience",
+                "link": "https://www.edcjcc.org/jxj/show/the-afro-semitic-experience/",
+                "time": "11:30 a.m.",
+                "price": "$19",
+                "location": "Logan Circle"
+            },
+            {
+                "emoji": "🗑️",
+                "title": "Litter Clean-Ups at Four Mile Run",
+                "link": "https://www.eventbrite.com/e/litter-clean-ups-at-four-mile-run-tickets-134000169113?aff=ebdssbdestsearch",
+                "time": "9:30 a.m.",
+                "price": "Free",
+                "location": "Arlington"
+            },
+            {
+                "emoji": "🪡",
+                "title": "Stitch N Bitch Craft Meet Up",
+                "link": "https://www.steadfastsupplydc.com/events/stitchnbitch-february",
+                "time": "11 a.m. - 1 p.m.",
+                "price": "$5",
+                "location": "Navy Yard"
+            },
+            {
+                "emoji": "🎶",
+                "title": "Tunes: Calefax Reed Quintet",
+                "link": "https://www.nga.gov/calendar/concerts/82nd-concert-series/calefax-reed-quintet.html/2025/02/09/1500",
+                "time": "3 p.m.",
+                "price": "Free",
+                "location": "National Mall"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-10",
+        "friendly_timestamp": "Monday, Feb. 10",
+        "events": [
+            {
+                "emoji": "🎞️",
+                "title": "Film Screening: “Soundtrack to a Coup d’Etat”",
+                "link": "https://withfriends.co/event/22650436",
+                "time": "7 p.m.",
+                "price": "Free",
+                "location": "Takoma Park"
+            },
+            {
+                "emoji": "🍻",
+                "title": "Profs & Pints: The Orgasm Gap",
+                "link": "https://profsandpints.ticketleap.com/o-gap/",
+                "time": "6 p.m.",
+                "price": "$17",
+                "location": "Penn Quarter"
+            },
+            {
+                "emoji": "🧶",
+                "title": "My Valentine Rug Tufting Workshop",
+                "link": "https://www.eventbrite.com/e/my-valentine-rug-tufting-workshop-tickets-1221142442919?aff=ebdssbdestsearch",
+                "time": "5:30 p.m.",
+                "price": "$245 per couple",
+                "location": "Hyattsville"
+            },
+            {
+                "emoji": "🎤",
+                "title": "DC Oral History Workshop",
+                "link": "https://www.eventbrite.com/e/what-is-oral-history-and-why-is-it-important-tickets-1096305422029",
+                "time": "6 p.m.",
+                "price": "Free",
+                "location": "Downtown"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-11",
+        "friendly_timestamp": "Tuesday, Feb. 11",
+        "events": [
+            {
+                "emoji": "🎞️",
+                "title": "Black Film Festival",
+                "link": "https://dclibrary.libnet.info/event/12885796",
+                "time": "5:30 p.m.",
+                "price": "Free",
+                "location": "MLK Library"
+            },
+            {
+                "emoji": "💗",
+                "title": "Profs & Pints: The Love Lecture",
+                "link": "https://profsandpints.ticketleap.com/luv/",
+                "time": "6 p.m.",
+                "price": "$17",
+                "location": "Penn Quarter"
+            },
+            {
+                "emoji": "✂️",
+                "title": "Valentine's Day DIY Craft Night",
+                "link": "https://www.eventbrite.com/e/not-your-typical-typical-valentines-day-diy-craft-night-tickets-1153626541039?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl",
+                "time": "6 p.m.",
+                "price": "Free",
+                "location": "Brookland Arts Walk"
+            },
+            {
+                "emoji": "📚",
+                "title": "Book Talk: Nat Geo’s Tara Roberts",
+                "link": "https://www.eventbrite.com/e/tara-roberts-tickets-1112906155269?aff=",
+                "time": "7 p.m.",
+                "price": "$12",
+                "location": "Chinatown"
+            },
+            {
+                "emoji": "🎥",
+                "title": "“Visions of Freedom” Black Film Festival",
+                "link": "https://www.eventbrite.com/e/visions-of-freedom-a-black-film-festival-at-howard-university-tickets-1110964567929?aff=ebdssbdestsearch",
+                "time": "10 a.m.",
+                "price": "$20",
+                "location": "Howard University"
+            },
+            {
+                "emoji": "📚",
+                "title": "Book Talk: Another World is Possible",
+                "link": "https://www.eventbrite.com/e/book-talk-another-world-is-possible-with-natasha-hakimi-zapata-tickets-1222907793129",
+                "time": "6 p.m.",
+                "price": "Free",
+                "location": "SW Waterfront"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-12",
+        "friendly_timestamp": "Wednesday, Feb. 12",
+        "events": [
+            {
+                "emoji": "👘",
+                "title": "Kimono Lecture & Fashion Show",
+                "link": "https://www.eventbrite.com/e/jetaadc-kimono-lecture-japanese-fashion-show-tickets-1222427376189?aff=ebdssbdestsearch",
+                "time": "6 p.m.",
+                "price": "$10",
+                "location": "Embassy of Japan (Downtown)"
+            },
+            {
+                "emoji": "🍫",
+                "title": "Chocolate Giveaway",
+                "link": "https://dclibrary.libnet.info/event/12879782",
+                "time": "All Day",
+                "price": "Free",
+                "location": "Benning Library"
+            },
+            {
+                "emoji": "💌",
+                "title": "Wordplay Wednesday: Valentine’s Edition",
+                "link": "https://planetwordmuseum.org/events/wordplay-wednesday-valentines-edition/",
+                "time": "5 p.m.",
+                "price": "$5+",
+                "location": "Downtown"
+            },
+            {
+                "emoji": "📽️",
+                "title": "D.C. Independent Film Fest",
+                "link": "https://www.eventbrite.com/e/festival-passes-dc-independent-film-festival-february-12-17-2025-tickets-1144660092149?aff=ebdssbdestsearch",
+                "time": "5 p.m.",
+                "price": "$45+",
+                "location": "Penn Quarter"
+            },
+            {
+                "emoji": "🎵",
+                "title": "Tunes: ‌Hannah Cole",
+                "link": "https://dc9.club/event/hannah-cole-2/",
+                "time": "8 p.m.",
+                "price": "$20+",
+                "location": "Shaw"
+            },
+            {
+                "emoji": "🧶",
+                "title": "Phillips Collection Community Crochet Circle",
+                "link": "https://www.phillipscollection.org/event/2025-02-12-crochet-circle",
+                "time": "6:30 p.m.",
+                "price": "Free",
+                "location": "Shipley"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-13",
+        "friendly_timestamp": "Thursday, Feb. 13",
+        "events": [
+            {
+                "emoji": "👯",
+                "title": "A Galentine's Dance Party",
+                "link": "https://www.blackcatdc.com/shows/venus-party.html",
+                "time": "7:30 p.m.",
+                "price": "$10",
+                "location": "Black Cat"
+            },
+            {
+                "emoji": "📚",
+                "title": "Pop-Up Book Sale",
+                "link": "https://www.eventbrite.com/e/rosslyn-reads-pop-up-book-sale-tickets-1219739466579?aff=ebdssbdestsearch",
+                "time": "12 - 7 p.m.",
+                "price": "Free",
+                "location": "Rosslyn"
+            },
+            {
+                "emoji": "🎭",
+                "title": "State of DC Black Theatre",
+                "link": "https://www.eventbrite.com/e/state-of-dc-black-theatre-the-convening-tickets-1144445450149?aff=",
+                "time": "6:30 p.m.",
+                "price": "Free",
+                "location": "Downtown"
+            },
+            {
+                "emoji": "🎻",
+                "title": "NSO In Your Neighborhood: Uptown",
+                "link": "https://www.kennedy-center.org/nso/home/2024-2025/nso-iyn-sligo-sda-church/",
+                "time": "7 p.m.",
+                "price": "Free",
+                "location": "Takoma Park"
+            },
+            {
+                "emoji": "🤘",
+                "title": "Girls Rock! DC Valentine’s Cover Show",
+                "link": "https://songbyrddc.com/event/heartbreakhotel/",
+                "time": "7 p.m.",
+                "price": "$20",
+                "location": "Union Market"
+            },
+            {
+                "emoji": "🐶",
+                "title": "Pet Portraits, Pawlentine's Day Party",
+                "link": "https://givebutter.com/ValentinesPhotos",
+                "time": "4 - 7 p.m.",
+                "price": "$30",
+                "location": "Shaw"
+            },
+            {
+                "emoji": "💗",
+                "title": "Punch Bowl Social Galentine's Party",
+                "link": "https://www.eventbrite.com/e/arlington-va-galentines-party-at-punch-bowl-social-tickets-1200244416359?aff=ebdssbdestsearch",
+                "time": "7 p.m.",
+                "price": "$15",
+                "location": "Arlington"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-14",
+        "friendly_timestamp": "Friday, Feb. 14",
+        "events": [
+            {
+                "emoji": "✂️",
+                "title": "Valentine’s Craft Night",
+                "link": "https://www.merrypindc.com/product/valentines-craft-night/3381?cs=true&cst=custom",
+                "time": "6 p.m.",
+                "price": "$50",
+                "location": "Takoma Park"
+            },
+            {
+                "emoji": "🎤",
+                "title": "Broadway Rave",
+                "link": "https://www.930.com/e/broadway-rave-2/",
+                "time": "10 p.m.",
+                "price": "$25",
+                "location": "U Street Corridor"
+            },
+            {
+                "emoji": "💔",
+                "title": "Anti-Valentine’s Day Party",
+                "link": "https://www.eventbrite.com/e/anti-valentines-day-the-shredding-of-grievances-tickets-1220238308629?aff=",
+                "time": "7 - 10 p.m.",
+                "price": "Free",
+                "location": "Shaw"
+            },
+            {
+                "emoji": "😬",
+                "title": "Comedy: Awkward Sex … and the City",
+                "link": "https://www.blackcatdc.com/shows/awkward-sex.html",
+                "time": "6 p.m.",
+                "price": "$20",
+                "location": "14th St. NW"
+            },
+            {
+                "emoji": "🎂",
+                "title": "Valentine’s Day Cake and Sip",
+                "link": "https://www.eventbrite.com/e/valentines-day-cake-and-sip-tickets-1076240828289?aff=ebdssbdestsearch",
+                "time": "6 p.m.",
+                "price": "$90",
+                "location": "Bloomingdale"
+            },
+            {
+                "emoji": "🪩",
+                "title": "Valentine's Day Rock & Roll Party",
+                "link": "https://www.blackcatdc.com/shows/v-day-party.html",
+                "time": "7 p.m.",
+                "price": "Free",
+                "location": "14th St. NW"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-15",
+        "friendly_timestamp": "Saturday, Feb. 15",
+        "events": [
+            {
+                "emoji": "💘",
+                "title": "Cupid's Undie Run",
+                "link": "https://www.wharfdc.com/upcoming-events/2025-02-15-cupids-undie-run/",
+                "time": "12 p.m.",
+                "price": "$45",
+                "location": "The Wharf"
+            },
+            {
+                "emoji": "🎶",
+                "title": "Local Tunes: Bartees Strange",
+                "link": "https://www.930.com/e/bartees-strange/",
+                "time": "6 p.m.",
+                "price": "$25",
+                "location": "9:30 Club"
+            },
+            {
+                "emoji": "🧑‍🤝‍🧑",
+                "title": "“You Should Meet My Friend” Presentations",
+                "link": "https://www.instagram.com/p/DFBen0YShnR/?igsh=MWNqNGppcDZlYjhhcA%3D%3D",
+                "time": "7 p.m.",
+                "price": "Free",
+                "location": "Dupont"
+            },
+            {
+                "emoji": "🎞️",
+                "title": "Film Fest: “Women and their Stories”",
+                "link": "https://www.eventbrite.com/e/women-and-their-stories-short-fiction-program-two-tickets-1217308585749?aff=ebdssbdestsearch",
+                "time": "5:45 p.m.",
+                "price": "$13",
+                "location": "Regal Gallery Place"
+            },
+            {
+                "emoji": "🐼",
+                "title": "Panda Cookie Decorating Class",
+                "link": "https://www.eventbrite.com/e/panda-cookie-decorating-at-captain-cookie-tickets-1221206243749?aff=oddtdtcreator",
+                "time": "1 - 4 p.m.",
+                "price": "$10",
+                "location": "Cleveland Park"
+            },
+            {
+                "emoji": "🎉",
+                "title": "Lunar New Year: A Tết Celebration",
+                "link": "https://dclibrary.libnet.info/event/12846241",
+                "time": "1 - 4 p.m.",
+                "price": "Free",
+                "location": "MLK Library"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-16",
+        "friendly_timestamp": "Sunday, Feb. 16",
+        "events": [
+            {
+                "emoji": "👖",
+                "title": "LVRS & FRNDS Vintage Market",
+                "link": "https://www.blackcatdc.com/shows/lvrs-frnds.html",
+                "time": "5 - 9 p.m.",
+                "price": "$10",
+                "location": "Black Cat"
+            },
+            {
+                "emoji": "✍️",
+                "title": "Creative Writing Workshop",
+                "link": "https://www.merrypindc.com/product/written-in-the-cards-creative-writing-workshop/3645?si=true",
+                "time": "2 p.m.",
+                "price": "$35",
+                "location": "Takoma Park"
+            },
+            {
+                "emoji": "🧼",
+                "title": "Soap Making Workshop",
+                "link": "https://www.steadfastsupplydc.com/events/cold-process-soap-making-class-feb16",
+                "time": "2 p.m.",
+                "price": "$98",
+                "location": "Navy Yard"
+            },
+            {
+                "emoji": "💃",
+                "title": "Afro-Brazilian Music and Dance",
+                "link": "https://www.educarteinc.org/event/sarau-de-samba-at-glen-echo-park-feb16/?utm_campaign=sarau&utm_source=calendar-listing&utm_medium=city-cast-dc",
+                "time": "2 - 5 p.m.",
+                "price": "$15",
+                "location": "Glen Echo"
+            },
+            {
+                "emoji": "🎙️",
+                "title": "Local Tunes: Dono Dono",
+                "link": "https://songbyrddc.com/event/dono-dono/",
+                "time": "8 p.m.",
+                "price": "$15+",
+                "location": "Union Market"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-17",
+        "friendly_timestamp": "Monday, Feb. 17",
+        "events": [
+            {
+                "emoji": "🚴",
+                "title": "Bike Clinic Workshop",
+                "link": "https://www.eventbrite.com/e/bike-clinics-tickets-1223978756409?aff=ebdssbdestsearch",
+                "time": "5:15 p.m.",
+                "price": "Free",
+                "location": "Alexandria"
+            },
+            {
+                "emoji": "🎻",
+                "title": "National Symphony Orchestra Community Concert",
+                "link": "https://www.kennedy-center.org/nso/home/2024-2025/nso-iyn-raymond-recreation-center/",
+                "time": "7 p.m.",
+                "price": "Free",
+                "location": "Petworth"
+            },
+            {
+                "emoji": "🎺",
+                "title": "Go-Go Festival",
+                "link": "https://dclibrary.libnet.info/event/12931446",
+                "time": "1 - 5:30 p.m.",
+                "price": "Free",
+                "location": "Howard Theatre"
+            },
+            {
+                "emoji": "🎤",
+                "title": "Spoken Word and Poetry Slam",
+                "link": "https://www.eventbrite.com/e/spoken-word-and-poetry-slam-tickets-1147611499889?aff=ebdssbdestsearch",
+                "time": "12 p.m.",
+                "price": "Free",
+                "location": "Hyattsville Busboys & Poets"
+            },
+            {
+                "emoji": "🍻",
+                "title": "Profs & Pints: George Washington and Executive Power",
+                "link": "https://profsandpints.ticketleap.com/georgepower/",
+                "time": "6 p.m.",
+                "price": "$17",
+                "location": "Penn Quarter"
+            },
+            {
+                "emoji": "🎸",
+                "title": "Tunes: Toro y Moi & Panda Bear",
+                "link": "https://www.ticketmaster.com/toro-y-moi-panda-bear-washington-district-of-columbia-02-17-2025/event/150061858783186F?_gl=1*1eyc6p4*_ga*MTAzNzE2MDUyOC4xNzEzOTEwNzIy*_ga_EBD96HW9Q1*MTczODY5MDU5MS40My4xLjE3Mzg2OTA2NDAuMTEuMC4w",
+                "time": "6:30 p.m.",
+                "price": "$46",
+                "location": "9:30 Club"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-18",
+        "friendly_timestamp": "Tuesday, Feb. 18",
+        "events": [
+            {
+                "emoji": "📚",
+                "title": "Lost City Books Translation Salon",
+                "link": "https://www.eventbrite.com/e/lost-city-books-translation-salon-tickets-1124772517879?aff=",
+                "time": "7 - 9 p.m.",
+                "price": "Free",
+                "location": "Adams Morgan"
+            },
+            {
+                "emoji": "🫦",
+                "title": "Profs & Pints DC: Medieval Sex",
+                "link": "https://profsandpints.ticketleap.com/bawdiness/",
+                "time": "6 p.m.",
+                "price": "$17",
+                "location": "Penn Quarter"
+            },
+            {
+                "emoji": "🎵",
+                "title": "Tunes: lunar vacation",
+                "link": "https://theatlantis.com/e/lunar-vacation/",
+                "time": "6:30 p.m.",
+                "price": "$22",
+                "location": "The Atlantis"
+            },
+            {
+                "emoji": "🫖",
+                "title": "Tea Tasting Adventure",
+                "link": "https://dclibrary.libnet.info/event/12879337",
+                "time": "1 p.m.",
+                "price": "Free",
+                "location": "Congress Heights"
+            },
+            {
+                "emoji": "🎥",
+                "title": "BHM Movies: “Love & Basketball”",
+                "link": "https://dclibrary.libnet.info/event/12745233",
+                "time": "2 p.m.",
+                "price": "Free",
+                "location": "Chevy Chase Library"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-19",
+        "friendly_timestamp": "Wednesday, Feb. 19",
+        "events": [
+            {
+                "emoji": "📷",
+                "title": "Photo Collage Workshop",
+                "link": "https://www.phillipscollection.org/event/2025-02-19-hands-photo-collaging",
+                "time": "6:30 p.m.",
+                "price": "Free",
+                "location": "Shipley"
+            },
+            {
+                "emoji": "📚",
+                "title": "Bring Your Own Book Reading Night",
+                "link": "https://www.eventbrite.com/e/unbound-presents-bring-your-own-book-tickets-1225603285419?aff=ebdssbdestsearch",
+                "time": "6:30 p.m.",
+                "price": "$12",
+                "location": "Adams Morgan"
+            },
+            {
+                "emoji": "🥌",
+                "title": "Curling and Cocktails",
+                "link": "https://www.eventbrite.com/e/curling-and-cocktails-at-the-wharf-ice-rink-2025-tickets-1205568209969?aff=oddtdtcreator",
+                "time": "7 - 10 p.m.",
+                "price": "Free",
+                "location": "The Wharf"
+            },
+            {
+                "emoji": "🎵",
+                "title": "Black Audio Society: gum.mp3",
+                "link": "https://www.eventbrite.com/e/black-audio-society-live-w-gummp3-tickets-1063491133609?aff=ebdsoporgprofile",
+                "time": "7 p.m.",
+                "price": "$20",
+                "location": "Truxton Circle"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-20",
+        "friendly_timestamp": "Thursday, Feb. 20",
+        "events": [
+            {
+                "emoji": "🦹",
+                "title": "DMV Crime Fiction Book Club",
+                "link": "https://dclibrary.libnet.info/event/12529255",
+                "time": "6:30 p.m.",
+                "price": "Free",
+                "location": "Southwest Library"
+            },
+            {
+                "emoji": "🎞️",
+                "title": "Mother Tongue Film Festival",
+                "link": "https://www.si.edu/events/detail/?trumbaEmbed=view%3Devent%26eventid%3D179159660",
+                "time": "7 p.m.",
+                "price": "Free",
+                "location": "American Indian Museum"
+            },
+            {
+                "emoji": "🎤",
+                "title": "Story Time for Grown-Ups",
+                "link": "https://www.loc.gov/item/event-415671/live-at-the-library-douglas-kearney-with-ron-charles/2025-02-20/",
+                "time": "7 p.m.",
+                "price": "Free",
+                "location": "Library of Congress"
+            },
+            {
+                "emoji": "👯",
+                "title": "Salon: The Genius of Polyamory",
+                "link": "https://dclibrary.libnet.info/event/12844826",
+                "time": "5 p.m.",
+                "price": "Free",
+                "location": "Cleveland Park"
+            },
+            {
+                "emoji": "🩰",
+                "title": "Washington Ballet: transcenDANCE Show",
+                "link": "https://www.washingtonballet.org/events/transcendance/",
+                "time": "8 p.m.",
+                "price": "$25+",
+                "location": "The Kennedy Center"
+            }
+        ]
+    }
+]
