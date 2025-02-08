@@ -2,6 +2,7 @@ import requests
 import json
 from bs4 import BeautifulSoup
 from datetime import datetime
+from send_text import send_sms_via_email
 
 # URL of the events page
 EVENTS_URL = "https://dc.citycast.fm/events"
@@ -91,6 +92,8 @@ def parse_events(html):
             details = details.split('|')[1:]  # Remove first empty part before '|'
             time = details[0].strip() if details else time
             price = details[1].strip() if len(details) > 1 else price
+            if not price or price.lower() == 'free':
+                price = '$0'
             location = details[2].strip() if len(details) > 2 else location
 
             events.append({
@@ -148,12 +151,10 @@ def get_events():
 if __name__ == "__main__":
     events = get_events()
 
-    if events:
-        # Print structured JSON output
-        print(json.dumps(events, indent=4, ensure_ascii=False))  # UTF-8 encoding for emojis
-        
+    if events:     
         # Save to a JSON file
         with open("events.json", "w") as f:
             json.dump(events, f, indent=4, ensure_ascii=False)
+        send_sms_via_email(events)
     else:
         print("❌ No events found.")

@@ -9,5 +9,8 @@ wheels/
 # Virtual environments
 .venv
 
+# .env files
+.env
+
 events.html
 events.json
